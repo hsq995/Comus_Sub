@@ -1,0 +1,20 @@
+﻿  BndHandler.cpp
+  CHBCell.cpp
+  ComusMain.cpp
+  GDWater.cpp
+  GridCell.cpp
+  GridLyr.cpp
+  LandSub.cpp
+  MemTable.cpp
+  PressPeriod.cpp
+  Rchg.cpp
+  RegBudget.cpp
+  ResultVal.cpp
+  SHB.cpp
+  Solver.cpp
+  StdAfx.cpp
+  Well.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在生成代码...
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  COMUS.vcxproj -> D:\Git_project\COMUS-SUB\COMUS-SUB-Source code\x64\Release\COMUS.exe

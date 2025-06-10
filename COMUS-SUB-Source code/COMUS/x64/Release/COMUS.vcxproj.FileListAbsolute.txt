@@ -1,0 +1,2 @@
+D:\Git_project\COMUS-SUB-Source code\COMUS\x64\Release\COMUS.vcxproj.AssemblyReference.cache
+D:\Git_project\COMUS-SUB\COMUS-SUB-Source code\COMUS\x64\Release\COMUS.vcxproj.AssemblyReference.cache
